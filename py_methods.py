@@ -26,7 +26,7 @@ print(text.startswith(" We"))
 print(text.endswith("! "))
 
 #split string
-print("Simple split",text.split())
+print("Simple split: ",text.split())
 
 #join words
 word = ["Python","is","fun"]
